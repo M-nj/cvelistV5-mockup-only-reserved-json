@@ -1,12 +1,12 @@
 {
-  "fetchTime": "2024-09-01T00:10:00.000Z",
+  "fetchTime": "2024-09-01T00:15:00.000Z",
   "numberOfChanges": 1,
   "new": [
     {
-      "cveId": "CVE-1970-0001",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-1970-0001",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/1970/0xxx/CVE-1970-0001.json",
-      "dateUpdated": "2024-09-01T00:06:00.000Z"
+      "cveId": "CVE-1970-0004",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-1970-0004",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/1970/0xxx/CVE-1970-0004.json",
+      "dateUpdated": "2024-09-01T00:17:00.000Z"
     }
   ],
   "updated": [],
